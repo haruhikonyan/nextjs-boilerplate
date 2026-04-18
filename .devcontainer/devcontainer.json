@@ -15,7 +15,8 @@
         "biomejs.biome",
         "mhutchie.git-graph",
         "Prisma.prisma",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "bradlc.vscode-tailwindcss"
       ],
       "settings": {
         "editor.formatOnSave": true,

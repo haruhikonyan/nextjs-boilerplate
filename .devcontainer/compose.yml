@@ -3,6 +3,7 @@ services:
     image: mcr.microsoft.com/vscode/devcontainers/base:latest
     volumes:
       - ..:/nextjs-boilerplate:delegated
+      - /nextjs-boilerplate/node_modules
     env_file:
       - .env
     tty: true
